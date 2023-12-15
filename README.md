@@ -1,4 +1,4 @@
-# 5-weeks-of-data-science
+# series-of-data-science
 
 Hey fam! 👋 Excited to start a 5-week data science journey, and I want YOU to join in! 🌟 Whether you're new to this or just need a refresher, let's make data science fun and approachable.
 
